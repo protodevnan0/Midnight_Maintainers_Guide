@@ -15,4 +15,4 @@ For example:
 
 ro.midnight.build=190320.0001A
 
-ro.midnight.codename=midnight
+ro.midnight.codename=Midnight
